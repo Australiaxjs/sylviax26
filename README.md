@@ -1,10 +1,10 @@
 <div align="center">
  
-![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/hycinth22/hycinth22/main/profile-summary-card-output/swift/4-productive-time.svg)
+![](https://raw.githubusercontent.com/sylviax26/sylviax26/main/profile-summary-card-output/swift/3-stats.svg) ![](https://raw.githubusercontent.com/sylviax26/sylviax26/main/profile-summary-card-output/swift/4-productive-time.svg)
 
 </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hycinth22" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sylviax26" /> </div>
 
 ### Hi there 👋
 
@@ -95,11 +95,11 @@ Typst                    1 repo              █░░░░░░░░░░�
 Wakatime statistics: (only includes my github public repos)
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hycinth22&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sylviax26&layout=compact&langs_count=6)
 
 </div>
 
 My Github Profile Trophy's Ranking: 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hycinth22" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sylviax26" /> </div>
 
 
